@@ -1,0 +1,22 @@
+h1 {
+  color: #2E8B57;      /* צבע הטקסט - ירוק ים */
+  font-size: 36px;     /* גודל הגופן */
+  font-family: Arial, sans-serif; /* סוג הגופן */
+  text-align: center;  /* יישור מרכזי */
+  text-transform: uppercase; /* המרה לאותיות גדולות */
+  letter-spacing: 2px; /* רווח בין האותיות */
+  text-shadow: 2px 2px 4px #888888; /* צל לטקסט */
+}
+h2 {
+  color: #3CB371;              /* ירוק רענן יותר */
+  font-size: 28px;             /* קצת קטן יותר מ-h1 */
+  font-family: Arial, sans-serif; 
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;       /* טיפה פחות רווח בין אותיות */
+  text-shadow: 1px 1px 3px #999999; /* צל עדין יותר */
+}
+.centered-div {
+  width: 200px;
+  margin: 0 auto;
+}
